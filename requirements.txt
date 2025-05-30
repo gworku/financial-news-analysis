@@ -1,8 +1,12 @@
 pandas
+numpy
 matplotlib
-nltk
 seaborn
-spicy
-Texblock
-talib
+nltk
+textblob
+scikit-learn
+
+pynance
 yfinance
+jupyter
+streamlit

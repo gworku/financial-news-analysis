@@ -1,0 +1,8 @@
+pandas
+matplotlib
+nltk
+seaborn
+spicy
+Texblock
+talib
+yfinance

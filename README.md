@@ -4,7 +4,7 @@
 
 This project delivers a rigorous analysis of how financial news sentiment influences stock market behavior. By leveraging advanced Natural Language Processing (NLP) techniques integrated with robust financial analytics, we aim to:
 
-- Enhance predictive modeling capabilities at Nova Financial Solutions  
+- Enhance predictive modeling capabilities at Nova Financial   
 - Drive improved forecasting accuracy  
 - Support strategic decision-making with actionable insights  
 

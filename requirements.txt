@@ -6,7 +6,7 @@ nltk
 textblob
 scikit-learn
 
-pynance
+
 yfinance
 jupyter
 streamlit
